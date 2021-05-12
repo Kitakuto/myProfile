@@ -1,0 +1,43 @@
+body {
+    background-image: url(img/back.jpg);
+    background-attachment: fixed;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.whole {
+    padding: 5% 10% 10% 10%;
+    color: white;
+}
+
+.icon {
+    width: 25%;
+}
+
+.selfIntroduction {
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 7px;
+    margin-left: 5%;
+}
+
+.head {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.infomation {
+    font-size: 20px;
+}
+
+.box {
+    text-align:center
+}
+
+.content {
+    padding: 8px;
+    background-color: rgba(0, 0, 0, 0.6);
+    display: none;
+}
